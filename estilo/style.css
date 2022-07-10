@@ -59,7 +59,7 @@ header >p {
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.473);
 }
 
@@ -147,9 +147,8 @@ main a:hover{
 div.video{
     background-color: var(--cor6);
     margin: 0px -10px 30px -10px;
-    padding: 10px;
-    padding: 17.5%;
     position: relative;
+    padding-bottom: 34%;
 }
 
 div.video > iframe{
