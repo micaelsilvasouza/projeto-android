@@ -21,6 +21,12 @@
       'Aveia',
       'Cereais',
       'Achocolatados'
-    ]
+    ],
+    {
+      hallway: "1B",
+      description: "Corredor 1, parte do fundo do mercado",
+      products: [
+          "Leites"
+      ]
   }
 ]
