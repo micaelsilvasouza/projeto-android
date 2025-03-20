@@ -1,34 +1,34 @@
 [
-  {
-    hallway: "1A",
-    description: "Corredor 1, parte da frente do mercado",
-    products: [
-      'Adoçante',
-      'Suco de saquinho',
-      'Açúcar demerara',
-      'Açúcar cristal',
-      'Bebida organica',
-      'Barra de castanhas',
-      'Cookies',
-      'Biscoito belvita',
-      'AÇÚCAR ORGÂNICO',
-      'Açúcar mascavo',
-      'GRANOLA',
-      'Farinha de chia',
-      'SEM LINHAÇA',
-      'Gergilim',
-      'Orgânicos empacotados',
-      'Aveia',
-      'Cereais',
-      'Achocolatados'
-    ]
-  },
-  {
-    hallway: "1B",
-    description: "Corredor 1, parte do fundo do mercado",
-    products: [
-        "Leites"
-    ]
-  }
-  
+    {
+      "hallway": "1A",
+      "description": "Corredor 1, parte da frente do mercado",
+      "products": [
+        "Adoçante",
+        "Suco de saquinho",
+        "Açúcar demerara",
+        "Açúcar cristal",
+        "Bebida organica",
+        "Barra de castanhas",
+        "Cookies",
+        "Biscoito belvita",
+        "AÇÚCAR ORGÂNICO",
+        "Açúcar mascavo",
+        "GRANOLA",
+        "Farinha de chia",
+        "SEM LINHAÇA",
+        "Gergilim",
+        "Orgânicos empacotados",
+        "Aveia",
+        "Cereais",
+        "Achocolatados"
+      ]
+    },
+    {
+      "hallway": "1B",
+      "description": "Corredor 1, parte do fundo do mercado",
+      "products": [
+          "Leites"
+      ]
+    }
+    
 ]
