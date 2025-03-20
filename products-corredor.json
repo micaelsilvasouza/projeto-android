@@ -29,6 +29,30 @@
       "products": [
           "Leites"
       ]
+    },
+    {
+        "hallway": "2A",
+        "description": "Corredor 2, parte da frente do mercado",
+        "products": [
+            "Creme de barbear",
+            "Gel de cabelo",
+            "Barbeadores",
+            "Desodorantes",
+            "Hidratantes",
+            "Sabonetes",
+            "Acessórios banho"
+        ]
+    },
+    {
+        "hallway": "2B",
+        "description": "Corredor 2, parte do fundo do mercado",
+        "products": [
+            "Escova de cabelo",
+            "Tinta de cabelo",
+            "Creme capilar",
+            "Shampoo",
+            "Condicionador",
+            "Óleo capilar"
+        ]
     }
-    
 ]
