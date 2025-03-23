@@ -54,5 +54,10 @@
             "Condicionador",
             "Óleo capilar"
         ]
+    },
+    {
+        "hallway": "3A",
+        "description": "Corredor 3, parte da frente do mercado",
+        "products":[]
     }
 ]
