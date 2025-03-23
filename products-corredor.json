@@ -58,6 +58,25 @@
     {
         "hallway": "3A",
         "description": "Corredor 3, parte da frente do mercado",
-        "products":[]
+        "products":[
+            "Escovas de Dentes",
+            "Fio Dental",
+            "Flosser",
+            "Enxaguante Bocal",
+            "Creme Dental",
+            "Esmaltes",
+            "Creme Para Pés",
+            "Acetona",
+            "Sabonete Facial",
+            "Esfoliante",
+            "Espuma Facial",
+            "Gel Facial",
+            "Contonete",
+            "Algodão",
+            "Bandeite",
+            "Lenço de papel", 
+            "absorvente", 
+            "Fralda Masterial"
+        ]
     }
 ]
