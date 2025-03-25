@@ -88,5 +88,12 @@
             "Condicionador para bebês",
             "Sabonetes para bebês"
         ]
+    },
+    {
+        "hallway": "4B",
+        "description": "Corredor 4, parte do fundo do mercado",
+        "product": [
+            "papel higiênico"
+        ]
     }
 ]
