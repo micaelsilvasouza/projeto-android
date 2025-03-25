@@ -78,5 +78,15 @@
             "absorvente", 
             "Fralda Masterial"
         ]
+    },
+    {
+        "hallway": "3B",
+        "description": "Corredor 3 parte do fundo do mercado",
+        "products": [
+            "Fraldas",
+            "Shampoo para bebês",
+            "Condicionador para bebês",
+            "Sabonetes para bebês"
+        ]
     }
 ]
