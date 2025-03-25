@@ -95,5 +95,16 @@
         "product": [
             "papel higiênico"
         ]
+    }, 
+    {
+        "hallway": "4A"
+        "description": "Corredor 4, parte da frente do mercado",
+        "products": [
+            "Sabão em Barra",
+            "Tira ferrugem",
+            "tira manchas",
+            "Alvejantes",
+            "Amaciantes"
+        ]
     }
 ]
