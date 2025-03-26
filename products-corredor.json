@@ -92,7 +92,7 @@
     {
         "hallway": "4B",
         "description": "Corredor 4, parte do fundo do mercado",
-        "product": [
+        "products": [
             "papel higiênico"
         ]
     }, 
