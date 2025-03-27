@@ -106,5 +106,13 @@
             "Alvejantes",
             "Amaciantes"
         ]
+    }, 
+    {
+        "hallway": "5B",
+        "description": "Corredor 5, parte da frente do mercado",
+        "products": [
+            "Lava roupas em pó",
+            "Lava roupas líquido"
+        ]
     }
 ]
