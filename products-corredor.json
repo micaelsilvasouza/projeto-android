@@ -114,5 +114,12 @@
             "Lava roupas em pó",
             "Lava roupas líquido"
         ]
+    }, 
+    {
+        "hallway": "5B",
+        "description": "Corredor 5, parte do fundo do mercado",
+        "products": [
+            
+        ]
     }
 ]
