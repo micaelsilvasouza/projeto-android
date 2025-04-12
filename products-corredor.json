@@ -123,5 +123,12 @@
             "Desinfetante",
             "Limpadores de banheiro"
         ]
+    },
+    {
+        "hallway": "6A",
+        "description": "Corredor 6, parte da frente do mercado",
+        "products":[
+            
+        ]
     }
 ]
