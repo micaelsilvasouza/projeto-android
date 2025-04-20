@@ -128,6 +128,38 @@
         "hallway": "6A",
         "description": "Corredor 6, parte da frente do mercado",
         "products":[
+            "inseticida",
+            "Raticida",
+            "Mata pulgas",
+            "Repelentes",
+            "Alcool",
+            "Alcool em gel",
+            "Limpa Vidros",
+            "Limpa box",
+            "Escova para Sapatos",
+            "Limpador de metais",
+            "Polidor de  metais",
+            "Lustra moveis",
+            "Brilha moveis",
+            "Cera para moveis",
+            "Cera Inglesa",
+            "Limpa Piso",
+            "Limpa carpete", 
+            "Limpa porcelana",
+            "Limpa Pedras", 
+            "Limpadores Multiuso",
+            "Limpadores gerais",
+            "Odorizador",
+            "Difusor",
+            "Neutralizados de odor",
+            "Odorizador",
+            "Tira odor"
+        ]
+    }
+    {
+        "hallway": "6B",
+        "description": "Corredor 6, parte do fundo do mercado",
+        "products": [
             
         ]
     }
