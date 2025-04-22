@@ -162,5 +162,12 @@
         "products": [
             
         ]
+    },
+    {
+        "hallway":"7A",
+        "description": "Corredor 7, parte da frente do mercado",
+        "product": [
+            
+        ]
     }
 ]
