@@ -163,14 +163,17 @@
             "Limpador Multiuso",
             "Esponja",
             "Lâ de Aço",
-            "Detergente"
-        ]
-    },
-    {
-        "hallway":"7A",
-        "description": "Corredor 7, parte da frente do mercado",
-        "product": [
-            
+            "Detergente" ,
+            "Sabão em Barra",
+            "Limpa Forno",
+            "Desentupitor",
+            "Soda caustica",
+            "Limapdor Cosinha",
+            "Desengordutante",
+            "Removedor de gordura",
+            "Limpa Alumínio",
+            "Brilha Alumínio",
+            "Saboneco Cremoso"
         ]
     }
 ]
