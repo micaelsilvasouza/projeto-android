@@ -175,5 +175,32 @@
             "Brilha Alumínio",
             "Saboneco Cremoso"
         ]
+    },
+    {
+        "hallway": "7A",
+        "description": "Corredor 7, parte da frente do mercado",
+        "products": [
+            "Marca Texto",
+            "caneta",
+            "Regua",
+            "Tesoura",
+            "Corretivo",
+            "Caderneta",
+            "Grampo de Papel",
+            "cola branca",
+            "Fita crepe",
+            "Fita empacotadora",
+            "caderno",
+            "Folha A4",
+            "Mochila",
+            "Esponja para carro",
+            "Renovador de farol",
+            "Odorizador / Aromatizador para carro",
+            "Cera para carro",
+            "produtos para carros",
+            "Lampadas",
+            "Velas",
+            "fosforos"
+        ]
     }
 ]
